@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+}
+
+
+
+
+.title {
+    box-shadow: 5px 5px 5px grey;
+    background-color: green; 
+    border-radius: 30px;
+}
+
